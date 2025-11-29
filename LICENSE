@@ -1,6 +1,6 @@
-MIT License
+MIT License with Heart Clause
 
-Copyright (c) 2025 张晓文开源 | Zhang Xiaowen Open
+Copyright (c) 2025 Xiaowen Zhang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Heart Clause:
+
+This work is created with the belief that technology should serve humanity,
+not replace human connection. Systems built using this framework should
+prioritize:
+
+1. Human flourishing and wellbeing
+2. Transparency and accountability
+3. Respect for human agency and dignity
+4. Beneficial outcomes for society
+
+While this clause does not carry legal weight, it represents the ethical
+foundation and intent behind this work. Users are encouraged to apply these
+principles when building upon this research.
