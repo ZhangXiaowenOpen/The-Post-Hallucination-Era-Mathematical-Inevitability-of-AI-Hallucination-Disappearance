@@ -1,4 +1,3 @@
-# The-Post-Hallucination-Era-Mathematical-Inevitability-of-AI-Hallucination-Disappearance
 # The Post-Hallucination Era 🚀
 
 > **Mathematical proof that AI hallucinations are not permanent defects but inevitable transitional phenomena**
@@ -295,7 +294,6 @@ See [LICENSE](LICENSE) for details.
 - Independent Researcher
 - Location: Setúbal, Portugal
 - Email: ai418033672@gmail.com
-- arXiv: [Author Profile](https://arxiv.org/search/?searchtype=author&query=Zhang%2C+X)
 
 ## 🙏 Acknowledgments
 
@@ -309,7 +307,6 @@ This work builds on insights from:
 
 - **Issues**: Use GitHub Issues for questions and discussions
 - **Email**: ai418033672@gmail.com for collaboration inquiries
-- **Twitter**: [@xiaowen_ai](https://twitter.com/xiaowen_ai) for updates
 
 ---
 
